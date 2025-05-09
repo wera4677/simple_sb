@@ -8,7 +8,7 @@
         GITNAME = 'wera4677'            
         GITEMAIL = 'woco11@naver.com' 
         GITWEBADD = 'https://github.com/wera4677/simple_sb.git'
-        GITSSHADD = 'git@github.com:wera4677/simple_sb.git'
+        GITSSHADD = 'git@github.com:wera4677/dep.git'
         GITCREDENTIAL = 'git_cre2'
         
         DOCKERHUB = 'kimjaeyeop/spring'
